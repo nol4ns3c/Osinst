@@ -5,8 +5,7 @@
 88    88   `Y8b.    88    88 V8o88   `Y8b.    88         
 `8b  d8' db   8D   .88.   88  V888 db   8D    88         
  `Y88P'  `8888Y' Y888888P VP   V8P `8888Y'    YP         
-                                                         
-                                                         
+                                                                                                                 
 ```
 
 Osint tool for finding intersection of follower list of targeted user list
